@@ -41,11 +41,12 @@ This project demonstrates strong understanding of *Object-Oriented Programming (
 
 ### 📂 Project Structure
 
-Student-Management-System/
+Student-Management-System-Java/
 │
 ├── src/
+│   ├── Main.java
 │   ├── Student.java
-│   └── StudentManagementSystem.java
+│   └── StudentService.java
 │
 └── README.md
 
